@@ -30,6 +30,7 @@
 ## 1️⃣ Clone o projeto
 
     -git clone https://github.com/melquideveloper/Api-Laravel-Auth-Docker-.git
+    -cd Api-Laravel-Auth-Docker-\
 
 ## 2️⃣ Instale as dependências Laravel
 
@@ -49,10 +50,12 @@
       exit
 
     -Rode as migrações:
-      php artisan migrate
+      php artisan migrate:refresh
 
     -Popular o banco:
       php artisan db:seed
+
+    -Resumo e linguagem menos verbosa
       php artisan migrate:fresh --seed
 
 ## 4️⃣ Deseja Subir o Servidor com Docker?
@@ -76,7 +79,7 @@
    - 📍 Veja todos os endpoints no PDF da Documentação.pdf.
    - ✅ Com exemplos de requisições e headers.
 
-## 7️⃣ Interface BÔNUS! Simples para Login e carga de dados 🎁
+## 7️⃣ Interface bônus! Simples para Login e carga de dados Excel 🎁
 
    - Acesse após subir o servidor no navegador:
    - http://127.0.0.1:8000
