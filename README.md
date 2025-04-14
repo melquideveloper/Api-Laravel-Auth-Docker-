@@ -91,7 +91,10 @@
    
    - Você verá a seguinte interface
      
-     ![image](https://github.com/user-attachments/assets/b4c8adb5-74e2-4f2c-83b0-bc636156fe7f)
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4c8adb5-74e2-4f2c-83b0-bc636156fe7f" alt="Codificando..." style="border-radius: 30px;"/>
+</p>
 
 ## 🧠 Principais Tecnologias
 
