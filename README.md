@@ -1,5 +1,5 @@
 
-![Sem título](https://github.com/user-attachments/assets/bde9e4c8-70a1-46a3-ac5f-d05d3ed93477)
+<p align="center"> ![Sem título](https://github.com/user-attachments/assets/bde9e4c8-70a1-46a3-ac5f-d05d3ed93477) </p>
 
 # 👋 Hello, let's connect this technical repository to new opportunities!
 
